@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 doma-delayu
+=======
+opa
+>>>>>>> branch-1
